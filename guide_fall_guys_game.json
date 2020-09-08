@@ -1,13 +1,13 @@
 {
   "ads": {
     "id_app":"",
-    "banner_setting": "ca-app-pub-3940256099942544/2247696110",
+    "banner_setting": "ca-app-pub-3940256099942544/6300978111",
     "inter_setting": "ca-app-pub-3940256099942544/8691691433",
-    "banner_main": "ca-app-pub-3399710561924220/2247696110",
+    "banner_main": "ca-app-pub-3399710561924220/6300978111",
     "inter_main": "ca-app-pub-3940256099942544/1033173712",
-    "banner_setting_new" : "ca-app-pub-3940256099942544/2247696110",
+    "banner_setting_new" : "ca-app-pub-3940256099942544/6300978111",
     "inter_setting_new" : "ca-app-pub-3940256099942544/8691691433",
-    "banner_main_new" : "ca-app-pub-3940256099942544/2247696110",
+    "banner_main_new" : "ca-app-pub-3940256099942544/6300978111",
     "inter_main_new" : "ca-app-pub-3940256099942544/1033173712",
     "onlyAdmod": true,
     "onlyFB": false,
